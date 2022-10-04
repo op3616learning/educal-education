@@ -1,7 +1,5 @@
-# Nextjs-React-Redux-Example
+# Educal
 [Demo](https://educal-react.vercel.app/)
-
-A Simple Counter App made with next.js, react and redux. 
 
 To run the app:
 
@@ -9,5 +7,3 @@ To run the app:
 npm install
 npm run dev
 ```
-
-[Detailed Explanation](https://dev.to/waqasabbasi/server-side-rendered-app-with-next-js-react-and-redux-38gf)
